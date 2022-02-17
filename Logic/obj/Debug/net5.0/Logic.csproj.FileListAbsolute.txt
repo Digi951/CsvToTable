@@ -1,0 +1,16 @@
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/Logic.deps.json
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/Logic.runtimeconfig.json
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/Logic.runtimeconfig.dev.json
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/Logic.dll
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/ref/Logic.dll
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/Logic.pdb
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.AssemblyInfoInputs.cache
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.AssemblyInfo.cs
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.csproj.CoreCompileInputs.cache
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.dll
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/ref/Logic.dll
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.pdb
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.genruntimeconfig.cache
+/Users/digi/Programmierung/CsvToTable/Logic/bin/Debug/net5.0/Logic
+/Users/digi/Programmierung/CsvToTable/Logic/obj/Debug/net5.0/Logic.csproj.AssemblyReference.cache
